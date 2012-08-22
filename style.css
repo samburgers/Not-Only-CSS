@@ -2,3 +2,9 @@
 	margin:0;
 	padding:0;
 }
+
+body{
+	background:#efefef;
+	width:1120px;
+	margin:0 auto;
+}
